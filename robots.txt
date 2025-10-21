@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://informans.github.io/sitemapx.xml
